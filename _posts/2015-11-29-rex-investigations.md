@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-29T11:03:51.596Z'
-dateModified: '2015-11-29T11:02:58.078Z'
+datePublished: '2015-11-29T11:08:14.558Z'
+dateModified: '2015-11-29T11:08:01.324Z'
 title: Rex Investigations
 author: []
 sourcePath: _posts/2015-11-29-rex-investigations.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: rex-investigations/index.html
-_type: Article
+_type: Blurb
 
 ---
 Rex Investigations located on Sydney's Northern Beaches, is a leading Private Investigation service for Corporate and Individual clients in many areas of Commercial and Private inquiry needs.
@@ -51,4 +51,4 @@ Our extensive experience and knowledge of the Australian Road Rules and State an
 Do you feel your PC privacy is being compromised? Our IT specialists are equipped with the latest software and hardware to find out exactly what is going on in your network without leaving any footprints.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a8066ba-d46a-46ea-9e2d-e47772e4edca.jpg)
 
-It is never a good feeling having your loved ones, loving someone else. With unique ideas and specialised techniques, we can deliver that peace of mind for your interest, or safety.
+It is never a good feeling having your loved ones, loving someone else. With unique ideas and specialised techniques, we can deliver that peace of mind for your interest, or safety. The difference between thinking, and knowing is only a few facts away.
