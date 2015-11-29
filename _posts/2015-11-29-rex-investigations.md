@@ -1,27 +1,43 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-29T10:25:55.564Z'
-dateModified: '2015-11-29T10:25:41.259Z'
+datePublished: '2015-11-29T10:48:33.807Z'
+dateModified: '2015-11-29T10:48:28.340Z'
 title: Rex Investigations
 author: []
+sourcePath: _posts/2015-11-29-rex-investigations.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-29-rex-investigations.md
-published: true
-_type: Blurb
+url: rex-investigations/index.html
+_type: Article
 
 ---
+Rex Investigations located on Sydney's Northern Beaches, is a leading Private Investigation service for Corporate and Individual clients in many areas of Commercial and Private inquiry needs.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20ebda40-2cc7-49cb-9008-25865fbcf172.jpg)
 
 With over 20 years of experience in the Australian Defence Force, NSW Police and Private Security, our team of highly trained, disciplined and professional Investigators and Operatives will help you achieve your goal.
+Delivering results with factual evidence of inaccuracies or liabilities in many areas of investigative services.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de4d6919-a474-4b38-8d73-bceffd3601e2.jpg)
+
+litigated proceedings and family law matters are never easy. We can assist in many cases to provide that necessity of knowledge before the fight that can lead to a better outcome.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/37c2284b-cee5-4404-8293-77912949eed8.jpg)
+
+Public liability and work cover claims will always be the forefront of insurance scams and fraudulent intent that can be mitigated with the right information and investigation.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae4e9b17-38d5-4d84-ac27-4a7027bbfdb6.jpg)
+
+Criminal Law has the need for private sector experience and influence in many areas of society where the law does not have the ability to extend its hand in justice. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80082a5a-c68b-45c3-a846-a1fd3f8714a5.jpg)
+
+Our surveillance team are trained and experienced in all areas of covert and overt matters that require the eyes on approach to our client needs and requests.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0935d10d-7f0f-4fd8-9140-5602fd89f457.jpg)
+
+Theft and fraud of material and intellectual property is on the increase with the growth of technology and equipment to evade even the most sophisticated deterrents and security. We are specialised in Skip trace and locate, with ability to conduct Police checks for CV and employer applications.
