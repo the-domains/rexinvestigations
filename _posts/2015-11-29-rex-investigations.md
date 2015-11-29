@@ -1,13 +1,14 @@
 ---
-inFeed: false
-hasPage: true
+inFeed: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: Commercial and Private Inquiry Agents
-datePublished: '2015-11-29T11:24:54.693Z'
-dateModified: '2015-11-29T11:20:43.453Z'
+datePublished: '2015-11-29T11:30:51.804Z'
+dateModified: '2015-11-29T11:30:46.659Z'
 title: Rex Investigations
 author: []
 sourcePath: _posts/2015-11-29-rex-investigations.md
@@ -18,7 +19,6 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: rex-investigations/index.html
 _type: Blurb
 
 ---
