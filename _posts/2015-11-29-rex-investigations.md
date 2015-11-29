@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Commercial and Private Inquiry Agents
-datePublished: '2015-11-29T11:16:45.467Z'
-dateModified: '2015-11-29T11:16:38.301Z'
+datePublished: '2015-11-29T11:24:54.693Z'
+dateModified: '2015-11-29T11:20:43.453Z'
 title: Rex Investigations
 author: []
 sourcePath: _posts/2015-11-29-rex-investigations.md
