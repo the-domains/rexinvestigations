@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-29T10:48:33.807Z'
-dateModified: '2015-11-29T10:48:28.340Z'
+datePublished: '2015-11-29T11:03:51.596Z'
+dateModified: '2015-11-29T11:02:58.078Z'
 title: Rex Investigations
 author: []
 sourcePath: _posts/2015-11-29-rex-investigations.md
@@ -40,4 +40,15 @@ Criminal Law has the need for private sector experience and influence in many ar
 Our surveillance team are trained and experienced in all areas of covert and overt matters that require the eyes on approach to our client needs and requests.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0935d10d-7f0f-4fd8-9140-5602fd89f457.jpg)
 
-Theft and fraud of material and intellectual property is on the increase with the growth of technology and equipment to evade even the most sophisticated deterrents and security. We are specialised in Skip trace and locate, with ability to conduct Police checks for CV and employer applications.
+Theft and fraud of material and intellectual property is on the increase with the growth of technology and equipment to evade even the most sophisticated deterrents and security. We are specialised in Skip trace and locate, with ability to conduct Police checks for CV and employer applications. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d50ead6a-0875-4642-8a58-503ecf55b6b3.jpg)
+
+With a wealth of current information technology background, we are able to provide data recovery services and data forensic services that compliment all other investigation services to achieve a more sound outcome and harder evidence for our clients.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9fbe40b9-39b2-430e-923e-4f982e65c484.jpg)
+
+Our extensive experience and knowledge of the Australian Road Rules and State and Territory road legislation allows us to handle CTP and Insurance matters with utmost diligence and proficiency. Our background and roots allow us better understanding of client needs when Injury or death is a result of negligence.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/073b3003-d4a7-48f3-87eb-65bd17b55ef6.jpg)
+
+Do you feel your PC privacy is being compromised? Our IT specialists are equipped with the latest software and hardware to find out exactly what is going on in your network without leaving any footprints.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a8066ba-d46a-46ea-9e2d-e47772e4edca.jpg)
+
+It is never a good feeling having your loved ones, loving someone else. With unique ideas and specialised techniques, we can deliver that peace of mind for your interest, or safety.
