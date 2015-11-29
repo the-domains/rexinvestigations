@@ -2,10 +2,10 @@
     <channel>
         <title><![CDATA[rexinvestigations]]></title>
         <description><![CDATA[rexinvestigations]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rexinvestigations/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 Nov 2015 10:48:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 29 Nov 2015 11:04:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rexinvestigations/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Rex Investigations]]></title>
             <description><![CDATA[<article><h1>Rex Investigations</h1><p>With over 20 years of experience in the Australian Defence Force, NSW Police and Private Security, our team of highly trained, disciplined and professional Investigators and Operatives will help you achieve your goal.
@@ -13,9 +13,9 @@
 Delivering results with factual evidence of inaccuracies or liabilities in many areas of investigative services.
 
 </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/20ebda40-2cc7-49cb-9008-25865fbcf172.jpg"></article>]]></description>
-            <link>undefinedrex-investigations/index.html</link>
+            <link>https://thegrid.ai/rexinvestigations/rex-investigations/index.html</link>
             <guid isPermaLink="false">2389fad0-1fa0-4eb9-a0ef-611ea138b899</guid>
-            <pubDate>Sun, 29 Nov 2015 10:48:33 GMT</pubDate>
+            <pubDate>Sun, 29 Nov 2015 11:03:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
