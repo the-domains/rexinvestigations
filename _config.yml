@@ -1,6 +1,6 @@
 name: rexinvestigations
 favicon: null
-layout_spectrum: 0.5897564941551536
+layout_spectrum: 1
 typography_spectrum: 0.75632
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.577378268353641
-  lightness: 0.5625
-  saturation: 0.5
+    - '#1b0092'
+    - '#fffeff'
+    - '#414de7'
+    - '#439ffa'
+    - '#43d5fd'
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.3125
   rhythmicContrast: 0.5
 purpose: []
