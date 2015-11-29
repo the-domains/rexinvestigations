@@ -6,10 +6,10 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: Commercial and Private Inquiry Agents
-datePublished: '2015-11-29T11:30:51.804Z'
-dateModified: '2015-11-29T11:30:46.659Z'
-title: Rex Investigations
+description: ''
+datePublished: '2015-11-29T11:35:03.756Z'
+dateModified: '2015-11-29T11:35:03.418Z'
+title: 'Rex InvestigationsCommercial & Private Inquiry Agents'
 author: []
 sourcePath: _posts/2015-11-29-rex-investigations.md
 published: true
@@ -22,6 +22,14 @@ publisher:
 _type: Blurb
 
 ---
+# **
+
+# **Rex Investigations**
+
+Commercial & Private Inquiry Agents
+
+**
+
 Rex Investigations located on Sydney's Northern Beaches, is a leading Private Investigation service for Corporate and Individual clients in many areas of Commercial and Private inquiry needs.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20ebda40-2cc7-49cb-9008-25865fbcf172.jpg)
 
