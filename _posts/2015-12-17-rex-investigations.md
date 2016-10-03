@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-03T07:54:34.608Z'
+datePublished: '2016-10-03T08:03:06.553Z'
 sourcePath: _posts/2015-12-17-rex-investigations.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-10-03T07:54:33.759Z'
+dateModified: '2016-10-03T08:03:05.603Z'
 title: Our Services
 publisher: {}
 description: >-
@@ -43,18 +43,19 @@ Criminal Law has the need for private sector experience and influence in many ar
 Our surveillance team are trained and experienced in all areas of covert and overt matters that require the eyes on approach to our client needs and requests.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d151c47a-d518-472d-bc37-c4aa8980a03c.jpg)
 
-Theft and fraud of material and intellectual property is on the increase with the growth of technology and equipment to evade even the most sophisticated deterrents and security. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/052f7211-03e8-4582-b1df-64f2f687fa35.png)
+Theft and fraud of material and intellectual property is on the increase with the growth of technology and equipment to evade even the most sophisticated deterrents and security.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/618722df91a9ac5e86b569fa76c2f21ec2bd6d95.png)
 
 We are specialised in Skip trace and locate, with ability to conduct Police checks for CV and employer applications.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f43266f8-c37a-40d1-924e-c4a55320742f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/083d740985a4ece7b0707c39b79cecacac3b9920.jpg)
 
 With a wealth of current information technology background, we are able to provide data recovery services and data forensic services that compliment all other investigation services to achieve a more sound outcome and harder evidence for our clients.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6e8a611-29ea-4855-aa21-4d1e70e8961a.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9279eda-216a-4dd0-af83-797ab900bb62.png)
 
 Our extensive experience and knowledge of the Australian Road Rules and State and Territory road legislation allows us to handle CTP and Insurance matters with utmost diligence and proficiency. Our background and roots allow us better understanding of client needs when Injury or death is a result of negligence.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9279eda-216a-4dd0-af83-797ab900bb62.png)
+
+It is never a good feeling having your loved ones, loving someone else. With unique ideas and specialised techniques, we can deliver that peace of mind for your interest, or safety. The difference between thinking, and knowing is only a few facts away.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7bb7433-50a5-4b9c-81a6-d77c3e85301f.jpg)
 
 Do you feel your PC privacy is being compromised? Our IT specialists are equipped with the latest software and hardware to find out exactly what is going on in your network without leaving any footprints.
-
-It is never a good feeling having your loved ones, loving someone else. With unique ideas and specialised techniques, we can deliver that peace of mind for your interest, or safety. The difference between thinking, and knowing is only a few facts away.
