@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-03T08:21:59.590Z'
+datePublished: '2016-10-03T08:28:32.259Z'
 sourcePath: _posts/2015-12-17-rex-investigations.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-10-03T08:21:58.725Z'
+dateModified: '2016-10-03T08:28:31.431Z'
 title: Our Services
 publisher: {}
 description: >-
@@ -21,10 +21,9 @@ _type: Article
 
 ---
 # _**Our Services**_
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/759a33cb-e8d0-4846-a70d-77b4582a4f0f.jpg)
 
 Rex Investigations located on Sydney's Northern Beaches, is a leading Private Investigation service for Corporate and Individual clients in many areas of Commercial and Private inquiry needs.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0ceeb59-5c58-43f0-b469-d6f1a9e9ef2c.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6a91340-96d4-484f-828c-86e354f4e8f8.jpg)
 
 With over 20 years of experience in the Australian Defence Force, NSW Police and Private Security, our team of highly trained and disciplined professional Investigators and Operatives will help you achieve your goal. Delivering results with factual evidence of inaccuracies or liabilities in many areas of investigative services.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f374d7a-a814-4c70-9c1c-1d3bb7419482.jpg)
