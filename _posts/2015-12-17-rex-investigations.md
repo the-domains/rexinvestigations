@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-03T08:03:06.553Z'
+datePublished: '2016-10-03T08:21:59.590Z'
 sourcePath: _posts/2015-12-17-rex-investigations.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-10-03T08:03:05.603Z'
+dateModified: '2016-10-03T08:21:58.725Z'
 title: Our Services
 publisher: {}
 description: >-
@@ -20,8 +20,6 @@ url: rex-investigations/index.html
 _type: Article
 
 ---
-<iframe src="https://the-grid.github.io/ed-location/?latitude=-25.734968&amp;longitude=134.489563&amp;zoom=3&amp;address=Australia" style=""></iframe>
-
 # _**Our Services**_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/759a33cb-e8d0-4846-a70d-77b4582a4f0f.jpg)
 
