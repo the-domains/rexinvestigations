@@ -1,13 +1,15 @@
 ---
-datePublished: '2017-03-11T23:02:11.195Z'
+datePublished: '2017-03-11T23:08:10.510Z'
 sourcePath: _posts/2015-12-17-rex-investigations.md
 inFeed: true
+isBasedOnUrl: >-
+  https://the-grid.github.io/ed-location/?latitude=-25.734968&longitude=134.489563&zoom=3&address=Australia
 authors: []
-hasPage: true
+hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2017-03-11T23:02:09.947Z'
+dateModified: '2017-03-11T23:08:09.315Z'
 title: Our Services
 publisher: {}
 description: >-
@@ -17,8 +19,7 @@ description: >-
 inLanguage: null
 starred: true
 datePublishedOriginal: '2016-10-03T08:28:32.259Z'
-url: rex-investigations/index.html
-_type: Article
+_type: MediaObject
 
 ---
 # _**Our Services**_
