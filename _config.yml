@@ -1,6 +1,5 @@
-typography_spectrum: 0.75632
-content_rating:
-  adult: false
+layout_spectrum: 0.20946678863700002
+typography_spectrum: 0.08947848611308427
 color:
   brandColors:
     - '#1b0092'
@@ -8,16 +7,17 @@ color:
     - '#414de7'
     - '#439ffa'
     - '#43d5fd'
-  brandStrength: 1
-  lightness: 0.5
-  saturation: 0
-  rhythmicContrast: 0.5
+  brandStrength: 0.5139399392017634
+  lightness: 0.6151122447660211
+  saturation: 0.5482176691543607
+  rhythmicContrast: 0.5332258131495207
+content_rating:
+  adult: false
 github: true
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 1
 analytics:
   google: null
   facebook: null
@@ -31,3 +31,4 @@ favicon: null
 title: Rex Investigations
 description: A leading Commercial and Private Inquiry Organisation
 purpose: []
+content: []
