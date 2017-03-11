@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-11T23:08:10.510Z'
+datePublished: '2017-03-11T23:09:41.894Z'
 sourcePath: _posts/2015-12-17-rex-investigations.md
 inFeed: true
 isBasedOnUrl: >-
@@ -9,7 +9,7 @@ hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2017-03-11T23:08:09.315Z'
+dateModified: '2017-03-11T23:09:40.168Z'
 title: Our Services
 publisher: {}
 description: >-
