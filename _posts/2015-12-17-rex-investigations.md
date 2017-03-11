@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-03T08:28:32.259Z'
+datePublished: '2017-03-11T23:02:11.195Z'
 sourcePath: _posts/2015-12-17-rex-investigations.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-10-03T08:28:31.431Z'
+dateModified: '2017-03-11T23:02:09.947Z'
 title: Our Services
 publisher: {}
 description: >-
@@ -16,6 +16,7 @@ description: >-
   Commercial and Private inquiry needs.
 inLanguage: null
 starred: true
+datePublishedOriginal: '2016-10-03T08:28:32.259Z'
 url: rex-investigations/index.html
 _type: Article
 
@@ -24,6 +25,8 @@ _type: Article
 
 Rex Investigations located on Sydney's Northern Beaches, is a leading Private Investigation service for Corporate and Individual clients in many areas of Commercial and Private inquiry needs.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6a91340-96d4-484f-828c-86e354f4e8f8.jpg)
+
+---
 
 With over 20 years of experience in the Australian Defence Force, NSW Police and Private Security, our team of highly trained and disciplined professional Investigators and Operatives will help you achieve your goal. Delivering results with factual evidence of inaccuracies or liabilities in many areas of investigative services.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f374d7a-a814-4c70-9c1c-1d3bb7419482.jpg)
@@ -46,10 +49,10 @@ Theft and fraud of material and intellectual property is on the increase with th
 We are specialised in Skip trace and locate, with ability to conduct Police checks for CV and employer applications.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/083d740985a4ece7b0707c39b79cecacac3b9920.jpg)
 
-With a wealth of current information technology background, we are able to provide data recovery services and data forensic services that compliment all other investigation services to achieve a more sound outcome and harder evidence for our clients.
+With a wealth of current information technology background, we are able to provide data recovery and data forensic services that compliment all other investigation services to achieve a more sound outcome and harder evidence for our clients.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6e8a611-29ea-4855-aa21-4d1e70e8961a.jpg)
 
-Our extensive experience and knowledge of the Australian Road Rules and State and Territory road legislation allows us to handle CTP and Insurance matters with utmost diligence and proficiency. Our background and roots allow us better understanding of client needs when Injury or death is a result of negligence.
+Our extensive experience and knowledge of the Australian Road Rules and State and Territory road legislation allows us to handle CTP and Insurance matters with utmost diligence and proficiency. Our background and core roots allow us better understanding of client needs when Injury or death is a result of negligence.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9279eda-216a-4dd0-af83-797ab900bb62.png)
 
 It is never a good feeling having your loved ones, loving someone else. With unique ideas and specialised techniques, we can deliver that peace of mind for your interest, or safety. The difference between thinking, and knowing is only a few facts away.
