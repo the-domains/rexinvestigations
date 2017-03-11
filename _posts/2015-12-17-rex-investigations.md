@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-11T23:09:41.894Z'
+datePublished: '2017-03-11T23:10:10.004Z'
 sourcePath: _posts/2015-12-17-rex-investigations.md
 inFeed: true
 isBasedOnUrl: >-
@@ -9,7 +9,7 @@ hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2017-03-11T23:09:40.168Z'
+dateModified: '2017-03-11T23:10:08.683Z'
 title: Our Services
 publisher: {}
 description: >-
@@ -60,3 +60,5 @@ It is never a good feeling having your loved ones, loving someone else. With uni
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7bb7433-50a5-4b9c-81a6-d77c3e85301f.jpg)
 
 Do you feel your PC privacy is being compromised? Our IT specialists are equipped with the latest software and hardware to find out exactly what is going on in your network without leaving any footprints.
+
+---
